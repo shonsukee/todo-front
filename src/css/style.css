@@ -1,0 +1,19 @@
+::content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: gray;
+  font-size: mono;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: small;
+}
